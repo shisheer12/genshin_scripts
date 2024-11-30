@@ -3,7 +3,7 @@
   "songs": [
     {
       "key": "1",
-      "file": "put the path to your midi file here",
+      "file": "Le Souvenir avec le crepuscule.mid",
       "channel_filter": [],
       "track_filter": [],
       "no_hold": true,
